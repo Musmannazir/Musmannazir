@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
+  <img src="https://komarev.com/ghpvc/?username=Musmannazir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -23,10 +23,18 @@
 ### 🔗 Connect with me:
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/Musmannazir/](http://www.linkedin.com/in/m-usman-567646305)"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" /></a>
-  <a href="https://github.com/Musmannazir"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" /></a>
-  <a href="https://instagram.com/100rabhch"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" /></a>
-  <a href="[https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber](https://youtube.com/@the_usman_mosaic.?si=Kl98YT_nj4ofL499)"><img src="https://img.icons8.com/doodle/1x/youtube--v2.png" /></a>
+  <a href="http://www.linkedin.com/in/m-usman-567646305" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Musmannazir" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/by_usmann?igsh=OG5sMmtha3FnaXJr" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/@the_usman_mosaic.?si=Kl98YT_nj4ofL499" target="_blank">
+    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube"/>
+  </a>
 </p>
 
 ---
