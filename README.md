@@ -39,11 +39,6 @@
 </p>
 
 ---
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Musmannazir/Musmannazir/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
 
 
 > Credit: [Usman Nazir](https://github.com/Musmannazir)  
