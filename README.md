@@ -9,6 +9,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </p>
 
+
 ---
 
 - 🔭 I’m currently studying at [GIKI](https://phoenix.tech/griffyn/)
@@ -38,6 +39,12 @@
 </p>
 
 ---
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Musmannazir/Musmannazir/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
 
 > Credit: [Usman Nazir](https://github.com/Musmannazir)  
 > Last Edited on: 08/08/2022
