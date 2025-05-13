@@ -23,12 +23,10 @@
 ### 🔗 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saurabhmchavan/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" /></a>
-  <a href="https://github.com/100rabhcsmc"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" /></a>
-  <a href="https://dev.to/100rabhcsmc"><img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png" /></a>
+  <a href="[https://www.linkedin.com/in/Musmannazir/](http://www.linkedin.com/in/m-usman-567646305)"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" /></a>
+  <a href="https://github.com/Musmannazir"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" /></a>
   <a href="https://instagram.com/100rabhch"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" /></a>
-  <a href="https://twitter.com/100rabhcsmc"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" /></a>
-  <a href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber"><img src="https://img.icons8.com/doodle/1x/youtube--v2.png" /></a>
+  <a href="[https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber](https://youtube.com/@the_usman_mosaic.?si=Kl98YT_nj4ofL499)"><img src="https://img.icons8.com/doodle/1x/youtube--v2.png" /></a>
 </p>
 
 ---
