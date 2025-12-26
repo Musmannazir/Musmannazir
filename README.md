@@ -90,7 +90,8 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://nirzak-stats.vercel.app/api?username=Musmannazir&theme=github_dark_dimmed&hide_border=false&cache_seconds=0" 
+  <img id="github-stats" 
+       src="https://nirzak-stats.vercel.app/api?username=Musmannazir&theme=github_dark_dimmed&hide_border=false&cache_seconds=0" 
        alt="GitHub Stats" 
        style="border-radius:12px; box-shadow:0 4px 6px rgba(0,0,0,0.3);" />
 
@@ -98,17 +99,24 @@
   
   <!-- GitHub Streak -->
   <h2 align="center">🔥 GitHub Streak</h2>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Musmannazir&theme=github_dark_dimmed&hide_border=false&cache_seconds=0" 
+  <img id="github-streak" 
+       src="https://nirzak-streak-stats.vercel.app/?user=Musmannazir&theme=github_dark_dimmed&hide_border=false&cache_seconds=0" 
        alt="GitHub Streak" 
        style="border-radius:12px; box-shadow:0 4px 6px rgba(0,0,0,0.3);" />
 </div>
 
+
+
 ---
+
+<h2 align="center">🧩 Contribution Graph</h2>
+<p align="center">
+  Visualizing my coding momentum and daily commitment to open source.
+</p>
 
 <div align="center">
   <a href="https://github.com/Musmannazir/Musmannazir/actions/workflows/snake.yml">
-    <img src="https://github.com/Musmannazir/Musmannazir/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+    <img src="https://github.com/Musmannazir/Musmannazir/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
   </a>
 </div>
-
 
