@@ -81,9 +81,13 @@
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MUsmanNazir&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MUsmanNazir&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MUsmanNazir&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ⚡ Main Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUsmanNazir&show_icons=true&theme=github_dark_dimmed&hide_border=false&cache_seconds=0)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MUsmanNazir&theme=github_dark_dimmed&hide_border=false&cache_seconds=0)
+
 
 > Credit: [Usman Nazir](https://github.com/Musmannazir)  
 > Last Edited on: 13/05/2025
