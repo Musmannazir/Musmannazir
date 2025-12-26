@@ -1,11 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4696FA&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Usman;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Student+at+GIKI" alt="Typing SVG" />
-  
-  <br>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Musmannazir&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-  </a>
 </div>
 
 <br>
@@ -22,7 +16,6 @@
         <li>🌱 Currently mastering <b>Generative AI</b>, <b>Flutter</b> & <b>DevOps</b>.</li>
         <li>👯 I’m looking to collaborate on <b>Open Source AI Projects</b>.</li>
         <li>💬 Ask me about <b>Python, Neural Networks, & Full-Stack Dev</b>.</li>
-        <li>⚡ Fun fact: I can optimize SEO while training a model!</li>
       </ul>
       <br>
       <div align="left">
@@ -33,7 +26,7 @@
       </div>
     </td>
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9b91f1-0627-441f-8258-009a74426b3e.gif" width="100%" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
     </td>
   </tr>
 </table>
@@ -44,8 +37,14 @@
 
 <div align="center">
 
-<h3>🧠 Artificial Intelligence & Data Science</h3>
+<h3>👨‍💻 Programming Languages</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+
+<br>
+
+<h3>🧠 AI & Machine Learning</h3>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -53,9 +52,9 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-<br><br>
+<br>
 
-<h3>💻 Full-Stack Development</h3>
+<h3>💻 Web & App Development</h3>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -63,15 +62,22 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-<br><br>
+<br>
 
-<h3>⚙️ DevOps & Databases</h3>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<h3>⚙️ Databases & DevOps</h3>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
+<br>
+
+<h3>🎨 Design Tools</h3>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
 </div>
 
@@ -83,17 +89,16 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Musmannazir&show_icons=true&theme=radical&hide_border=true" />
-      </td>
+<img src="https://github-readme-stats.vercel.app/api?username=MUsmanNazir&show_icons=true&theme=tokyonight&hide_border=true" />      </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musmannazir&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUsmanNazir&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musmannazir&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musmannazir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
