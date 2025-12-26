@@ -14,10 +14,12 @@
         Hi! I'm <b>Muhammad Usman Nazir</b>, a passionate AI Developer and student at <b>GIKI</b>. I bridge the gap between complex AI models and user-friendly applications.
       </p>
       <ul>
-        <li>🔭 I’m currently working on <b>GearGik</b> & <b>Inflation Forecasting Models</b>.</li>
-        <li>🌱 Currently mastering <b>Generative AI</b>, <b>Flutter</b> & <b>DevOps</b>.</li>
+        <li>🚀 I’m currently studying at <a href="https://giki.edu.pk/" target="_blank"><b>GIKI</b></a></li>
+        <li>🌱 I’m working on <b>App Development</b>, <b>AI Models</b>, and <b>AI Agents</b></li>
         <li>👯 I’m looking to collaborate on <b>Open Source AI Projects</b>.</li>
-        <li>💬 Ask me about <b>Python, Neural Networks, & Full-Stack Dev</b>.</li>
+        <li>💬 Ask me about <i>AI & Development</i></li>
+        <li>📧 Reach me at: <a href="mailto:nazirusman807@gmail.com"><b>nazirusman807@gmail.com</b></a></li>
+        <li>🤝 I’m available for freelancing</li>
       </ul>
       <br>
       <div align="left">
