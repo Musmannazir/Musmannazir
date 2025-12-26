@@ -1,45 +1,25 @@
 name: Generate Snake
 
-# Controls when the action will run. 
 on:
-  # Run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *" 
-  
-  # Allows you to manually run the workflow from the Actions tab
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  
-  # Also run on push to the main branch
   push:
     branches:
     - main
-    - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # 1. Standard Tokyo Night Neon (Matches your Profile)
-            dist/github-contribution-grid-snake.svg?palette=#1a1b27,#24283b,#7aa2f7,#bb9af7,#f7768e
-            
-            # 2. Dark Mode Version (Optional Backup)
+            dist/github-contribution-grid-snake.svg?palette="#1a1b27,#24283b,#7aa2f7,#bb9af7,#f7768e"
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-        # PALETTE EXPLANATION:
-        # #1a1b27 -> Background (Tokyo Night Dark Blue)
-        # #24283b -> Empty Cells (Subtle Dark)
-        # #7aa2f7 -> Low Activity (Neon Blue)
-        # #bb9af7 -> Medium Activity (Neon Purple)
-        # #f7768e -> High Activity (Neon Pink)
 
-      # Push the generated files to the output branch
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
