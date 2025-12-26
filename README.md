@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4696FA&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Usman;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Student+at+GIKI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4696FA&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Usman;AI+%26+ML+Developer;Full+Stack+Developer;Student+at+GIKI" alt="Typing SVG" />
 </div>
 
 <br>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Musmannazir&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 <table align="center" border="0" bgcolor="black">
   <tr>
     <td width="60%" valign="center">
@@ -89,18 +91,18 @@
   <table>
     <tr>
       <td>
-<img src="https://github-readme-stats.vercel.app/api?username=MUsmanNazir&show_icons=true&theme=tokyonight&hide_border=true" />      </td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Musmannazir&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
       <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUsmanNazir&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musmannazir&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musmannazir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Musmannazir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---
 
 <div align="center">
@@ -109,6 +111,4 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Musmannazir&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+
