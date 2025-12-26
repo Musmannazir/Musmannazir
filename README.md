@@ -33,7 +33,7 @@
       </div>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91ZWN5bHpqYnExYmJ0bmFtcGZ4eGp3eXF6aW03ZGNremZqZnZ6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVThqceKoyj8h5/giphy.gif" width="100%" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9b91f1-0627-441f-8258-009a74426b3e.gif" width="100%" />
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Musmannazir&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Musmannazir&show_icons=true&theme=radical&hide_border=true" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musmannazir&layout=compact&theme=radical&hide_border=true&langs_count=6" />
