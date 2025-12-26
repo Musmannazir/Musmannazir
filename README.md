@@ -1,93 +1,107 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Usman</a></h1>
-<h3 align="center">A passionate AI developer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4696FA&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Usman;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Student+at+GIKI" alt="Typing SVG" />
+  
+  <br>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Musmannazir&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+<br>
+
+<table align="center" border="0" bgcolor="black">
+  <tr>
+    <td width="60%" valign="center">
+      <h2>⚡ About Me</h2>
+      <p>
+        Hi! I'm <b>Muhammad Usman Nazir</b>, a passionate AI Developer and student at <b>GIKI</b>. I bridge the gap between complex AI models and user-friendly applications.
+      </p>
+      <ul>
+        <li>🔭 I’m currently working on <b>GearGik</b> & <b>Inflation Forecasting Models</b>.</li>
+        <li>🌱 Currently mastering <b>Generative AI</b>, <b>Flutter</b> & <b>DevOps</b>.</li>
+        <li>👯 I’m looking to collaborate on <b>Open Source AI Projects</b>.</li>
+        <li>💬 Ask me about <b>Python, Neural Networks, & Full-Stack Dev</b>.</li>
+        <li>⚡ Fun fact: I can optimize SEO while training a model!</li>
+      </ul>
+      <br>
+      <div align="left">
+        <a href="https://www.linkedin.com/in/m-usman-567646305"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
+        <a href="mailto:nazirusman807@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
+        <a href="https://www.facebook.com/share/1bK2Zmeny7/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" /></a>
+        <a href="https://www.instagram.com/by_usmann"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" /></a>
+      </div>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91ZWN5bHpqYnExYmJ0bmFtcGZ4eGp3eXF6aW03ZGNremZqZnZ6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVThqceKoyj8h5/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ Technical Arsenal</h2>
+
+<div align="center">
+
+<h3>🧠 Artificial Intelligence & Data Science</h3>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<br><br>
+
+<h3>💻 Full-Stack Development</h3>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<br><br>
+
+<h3>⚙️ DevOps & Databases</h3>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Musmannazir&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musmannazir&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musmannazir&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/Musmannazir/Musmannazir/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Musmannazir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Musmannazir&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
-</p>
-
----
-
-- 🚀 I’m currently studying at [GIKI](https://phoenix.tech/griffyn/)
-- 🌱 I’m working on App Development, AI Models, and AI Agents
-- 💬 Ask me about **AI & Development**
-- 📧 Reach me at: [nazirusman807@gmail.com](mailto:nazirusman807@gmail.com)
-- 🌱 Currently learning **Flutter** & **Machine Learning**
-- 🤝 I’m available for freelancing
-
----
-
-<h2 id="🔗-connect">🔗 Connect with me:</h2>
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1bK2Zmeny7/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/by_usmann)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-usman-567646305)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nazirusman807@gmail.com)
-
----
-
-## 🛠️ Skills
-
-### 👨‍💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC)
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
-
----
-
-### 📱 App & Web Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
----
-
-### 🧠 AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
----
-
-### 🗄️ Databases & Backend Services
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
----
-
-### ⚙️ DevOps, Deployment & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-### 🎨 UI / Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
----
-# 📊 GitHub Stats:
-
-### ⚡ Main Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUsmanNazir&show_icons=true&theme=github_dark_dimmed&hide_border=false&cache_seconds=0)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MUsmanNazir&theme=github_dark_dimmed&hide_border=false&cache_seconds=0)
-
-
-> Credit: [Usman Nazir](https://github.com/Musmannazir)  
-> Last Edited on: 13/05/2025
