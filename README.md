@@ -88,23 +88,21 @@
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
-
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Musmannazir&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musmannazir&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub Stats -->
+  <img src="https://nirzak-stats.vercel.app/api?username=Musmannazir&theme=github_dark_dimmed&hide_border=false&cache_seconds=0" 
+       alt="GitHub Stats" 
+       style="border-radius:12px; box-shadow:0 4px 6px rgba(0,0,0,0.3);" />
+
+  <br><br>
   
-  <br>
-  
-  <img src="https://streak-stats.demolab.com?user=Musmannazir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <h2 align="center">🔥 GitHub Streak</h2>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Musmannazir&theme=github_dark_dimmed&hide_border=false&cache_seconds=0" 
+       alt="GitHub Streak" 
+       style="border-radius:12px; box-shadow:0 4px 6px rgba(0,0,0,0.3);" />
 </div>
+
 ---
 
 <div align="center">
