@@ -120,3 +120,11 @@
   </a>
 </div>
 
+
+<br>
+<hr>
+<p align="center">
+  <small>
+    Profile Design & Layout © 2025 <b>Muhammad Usman Nazir</b>.<br>
+  </small>
+</p>
