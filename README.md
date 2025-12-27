@@ -116,7 +116,9 @@
 
 <div align="center">
   <a href="https://github.com/Musmannazir/Musmannazir/actions/workflows/snake.yml">
-    <img src="https://github.com/Musmannazir/Musmannazir/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+<img src="https://github.com/Musmannazir/Musmannazir/blob/output/github-contribution-grid-snake.svg" 
+     alt="Snake Animation" 
+     width="100%" />
   </a>
 </div>
 
