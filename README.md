@@ -94,8 +94,6 @@
        src="https://nirzak-stats.vercel.app/api?username=Musmannazir&theme=github_dark_dimmed&hide_border=false&cache_seconds=0" 
        alt="GitHub Stats" 
        style="border-radius:12px; box-shadow:0 4px 6px rgba(0,0,0,0.3);" />
-
-  <br><br>
   
   <!-- GitHub Streak -->
   <h2 align="center">🔥 GitHub Streak</h2>
