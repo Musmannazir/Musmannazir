@@ -15,7 +15,7 @@
       </p>
       <ul>
         <li>🚀 I’m currently studying at <a href="https://giki.edu.pk/" target="_blank"><b>GIKI</b></a></li>
-        <li>🌱 I’m working on <b>App Development</b>, <b>AI Models</b>, and <b>AI Agents</b></li>
+        <li>🌱 I’m working on <b>App/Web Development</b>, <b>AI Models</b>, and <b>AI Agents</b></li>
         <li>👯 I’m looking to collaborate on <b>Open Source AI Projects</b>.</li>
         <li>💬 Ask me about <i>AI & Development</i></li>
         <li>📧 Reach me at: <a href="mailto:nazirusman807@gmail.com"><b>nazirusman807@gmail.com</b></a></li>
@@ -116,11 +116,13 @@
 
 <div align="center">
   <a href="https://github.com/Musmannazir/Musmannazir/actions/workflows/snake.yml">
-    <img src="https://github.com/Musmannazir/Musmannazir/raw/output/github-contribution-grid-snake-dark.svg"
-         alt="Snake Animation"
-         width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Musmannazir/Musmannazir/output/github-contribution-grid-snake-dark.svg?v=2">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Musmannazir/Musmannazir/output/github-contribution-grid-snake.svg?v=2">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Musmannazir/Musmannazir/output/github-contribution-grid-snake-dark.svg?v=2">
+    </picture>
   </a>
-</div>
+</div>>
 
 
 <br>
