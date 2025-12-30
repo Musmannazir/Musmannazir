@@ -96,12 +96,13 @@
        style="border-radius:12px; box-shadow:0 4px 6px rgba(0,0,0,0.3);" />
   
   <!-- GitHub Streak -->
-  <h2 align="center">🔥 GitHub Streak</h2>
-  <img id="github-streak" 
-       src="https://nirzak-streak-stats.vercel.app/?user=Musmannazir&theme=github_dark_dimmed&hide_border=false&cache_seconds=0" 
-       alt="GitHub Streak" 
-       style="border-radius:12px; box-shadow:0 4px 6px rgba(0,0,0,0.3);" />
-</div>
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Musmannazir&theme=github-dark)
+</p>
+
 
 
 
