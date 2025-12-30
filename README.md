@@ -98,11 +98,7 @@
   <!-- GitHub Streak -->
 <h2 align="center">🔥 GitHub Streak</h2>
 
-<p align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Musmannazir&theme=github-dark)
-</p>
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Musmannazir&theme=github-dark&cacheBust=1)
 
 
 
