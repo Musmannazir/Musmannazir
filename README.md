@@ -96,9 +96,9 @@
        style="border-radius:12px; box-shadow:0 4px 6px rgba(0,0,0,0.3);" />
   
   <!-- GitHub Streak -->
-<h2 align="center">🔥 GitHub Streak</h2>
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Musmannazir&theme=github-dark&cacheBust=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Musmannazir&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=8b949e)
 
 
 
