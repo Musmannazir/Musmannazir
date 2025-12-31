@@ -89,7 +89,7 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musmannazir&theme=github_dark_dimmed&show_icons=true&hide_border=false" 
+  <img src="https://musman-readme-stats.vercel.app/api?username=Musmannazir&theme=github_dark_dimmed&hide_border=false" 
        alt="GitHub Stats" 
        style="border-radius:12px; box-shadow:0 4px 6px rgba(0,0,0,0.3);" />
   
