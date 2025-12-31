@@ -89,12 +89,14 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <!-- GitHub Stats -->
-  <img id="github-stats" 
-       src="https://nirzak-stats.vercel.app/api?username=Musmannazir&theme=github_dark_dimmed&hide_border=false&cache_seconds=86400" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Musmannazir&theme=github_dark_dimmed&show_icons=true&hide_border=false" 
        alt="GitHub Stats" 
        style="border-radius:12px; box-shadow:0 4px 6px rgba(0,0,0,0.3);" />
   
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musmannazir&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=8b949e" alt="GitHub Streak" />
+</div>
   <!-- GitHub Streak -->
 ## 🔥 GitHub Streak
 
