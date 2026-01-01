@@ -95,9 +95,8 @@
   
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musmannazir&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=8b949e" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musmannazir&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=8b949e" alt="GitHub Streak" />
 </div>
-
 
 ---
 
